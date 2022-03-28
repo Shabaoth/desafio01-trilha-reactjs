@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1648503628443" clover="3.2.0">
+  <project timestamp="1648503628444" name="All files">
+    <metrics statements="16" coveredstatements="15" conditionals="8" coveredconditionals="6" methods="12" coveredmethods="11" elements="36" coveredelements="32" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="TaskList.tsx" path="C:\Users\gstvo\OneDrive\Documentos\repos\React\desafio01-trilha-reactjs\src\components\TaskList.tsx">
+      <metrics statements="16" coveredstatements="15" conditionals="8" coveredconditionals="6" methods="12" coveredmethods="11"/>
+      <line num="14" count="20" type="stmt"/>
+      <line num="15" count="20" type="stmt"/>
+      <line num="19" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="7" type="stmt"/>
+      <line num="27" count="7" type="stmt"/>
+      <line num="28" count="7" type="stmt"/>
+      <line num="35" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="53" count="20" type="stmt"/>
+      <line num="62" count="7" type="stmt"/>
+      <line num="64" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="75" count="16" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="89" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
